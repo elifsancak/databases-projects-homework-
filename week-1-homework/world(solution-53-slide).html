@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>world-solution</title>
+</head>
+<body>
+        Use world.sql db.
+        <p>1. What are the names of the countries with population greater than 8 million</p>
+<b>select name from country where population > 8000000;</b>
+        <p>2. What are the names of the countries that have “land” in their names ?</p>
+<b>Select name from country where name like “%land%”;</b>
+       <p>3. What are the names of the cities with population in between 500,000 and 1 million ?</p>
+<b>select name from city where population between 500000 and 1000000;</b>
+        <p>4. What are the names of all the countries on the continent ‘Europe’ ?</p>
+<b>Select name from country where continent = “Europe”;</b>
+        <p>5. List all the countries in the descending order based on their surface areas.</p>
+<b>select name, SurfaceArea from country order by SurfaceArea desc;</b>
+
+<p>If you have time left and want more practice you can try these optional homework exercises:</p>
+
+        <p>1. What are the names of all the cities in the Netherlands?</p>
+<b>???</b>
+        <p>2. What's the population of Rotterdam?</p>
+ <b>select district from city where district = "Rotterdam";</b>
+        <p>3. What's the top 10 countries based on surface area?</p>
+<b>select name, surfacearea from country order by surfacearea asc limit 10;</b>
+        <p>4. What's the top 10 cities with the highest population?</p>
+<b>select name, population from city order by population desc limit 10;</b>
+        <p>5. What's the population of the world ?</p>
+ 
+</body>
+</html>
