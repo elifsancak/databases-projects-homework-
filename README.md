@@ -7,7 +7,6 @@
 ### Homeworks-1
 - [x]  [Build you own ER diagram (library)](https://github.com/elifsancak/databases-projects-homework-/blob/master/week-1-homework/Entity%20RDE%20(Library).pdf)
 - [ ]  [Create your database (travel)]
-- [ ]  [Write queries to retrieve data that answers questions]
 
 ### Homeworks-2
 - [x]  [Homework (solution.sql) From GitHub Page w1](https://github.com/elifsancak/databases-projects-homework-/blob/master/week-1-homework/submissions/solution.sql)
@@ -17,5 +16,4 @@
 - [x]  [Exercises Database w1 (world.sql) 53. Slide](https://github.com/elifsancak/databases-projects-homework-/blob/master/week-1-homework/world(solution-53-slide).sql)
 
 ### Practice and Work with SQL
-- [x]  [SQLBolt]
-- [ ]  [w3schools-SQL Tutorial]
+- [x]  [SQLBolt(level 6 is done]
