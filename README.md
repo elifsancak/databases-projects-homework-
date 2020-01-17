@@ -5,8 +5,8 @@
 * [databases-w1-my repository](https://github.com/elifsancak/databases-projects-homework-/tree/master/week-1-homework)
 
 ### Homeworks-1
-- [ ]  [Build you own ER diagram (51. slide)]
-- [ ]  [Create your database (52. slide)]
+- [x]  [Build you own ER diagram (library)](https://github.com/elifsancak/databases-projects-homework-/blob/master/week-1-homework/Entity%20RDE%20(Library).pdf)
+- [ ]  [Create your database (travel)]
 - [ ]  [Write queries to retrieve data that answers questions]
 
 ### Homeworks-2
