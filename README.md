@@ -11,7 +11,7 @@
 
 ### Homeworks-2
 - [x]  [Homework (solution.sql) From GitHub Page w1](https://github.com/elifsancak/databases-projects-homework-/blob/master/week-1-homework/submissions/solution.sql)
-- [ ]  [Homework (solution(bonus).sql) From GitHub Page w1](https://github.com/elifsancak/databases-projects-homework-/blob/master/week-1-homework/submissions/solution(bonus).sql)
+- [x]  [Homework (solution(bonus).sql) From GitHub Page w1](https://github.com/elifsancak/databases-projects-homework-/blob/master/week-1-homework/submissions/solution(bonus).sql)
 
 ### Exercises
 - [x]  [Exercises Database w1 (world.sql) 53. Slide](https://github.com/elifsancak/databases-projects-homework-/blob/master/week-1-homework/world(solution-53-slide).sql)
