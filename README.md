@@ -1,4 +1,4 @@
-# databases-projects-homework-
+# databases-projects-homework
 ## week-1
 
 ### Databases Week 1 Project
@@ -17,3 +17,18 @@
 
 ### Practice and Work with SQL
 - [x]  [SQLBolt(level 6 is done]
+
+###############################################################################################
+## week-2
+
+### Exercise-1 
+- [ ]  [Build you own ER diagram (musicians database)]
+### Exercise-2
+- [ ]  [Queries (world and imdb database)]
+### Exercise-3
+- [ ]  [Create a database for the todos homework]
+### Exercise-4
+- [ ]  [Use Primary Keys]
+### Exercise-5
+- [ ]  [Update the todos app to use a database]
+
