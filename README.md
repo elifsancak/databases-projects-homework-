@@ -20,6 +20,7 @@
 
 ###############################################################################################
 ## week-2
+- [ ]  [Demo Live](https://elifsancak.github.io/databases-projects-homework-/)
 
 ### Exercise-1 
 - [ ]  [Build you own ER diagram (musicians database)]
