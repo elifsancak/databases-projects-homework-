@@ -25,7 +25,9 @@
 ### Exercise-1 
 - [ ]  [Build you own ER diagram (musicians database)]
 ### Exercise-2
-- [ ]  [Queries (world and imdb database)]
+- [x]  [Queries (imdb database)](https://github.com/elifsancak/databases-projects-homework-/blob/master/week-2-homework/imdb(solution).sql)
+- [ ]  [Queries (world database)]()
+
 ### Exercise-3
 - [ ]  [Create a database for the todos homework]
 ### Exercise-4
