@@ -15,23 +15,17 @@
 ### Exercises
 - [x]  [Exercises Database w1 (world.sql) 53. Slide](https://github.com/elifsancak/databases-projects-homework-/blob/master/week-1-homework/world(solution-53-slide).sql)
 
-### Practice and Work with SQL
-- [x]  [SQLBolt(level 6 is done]
 
 ###############################################################################################
 ## week-2
-- [ ]  [Demo Live](https://elifsancak.github.io/databases-projects-homework-/)
+[Demo Live](https://elifsancak.github.io/databases-projects-homework-/)
 
-### Exercise-1 
-- [ ]  [Build you own ER diagram (musicians database)]
-### Exercise-2
+## Homework
+
 - [x]  [Queries (imdb database)](https://github.com/elifsancak/databases-projects-homework-/blob/master/week-2-homework/imdb(solution).sql)
 - [x]  [Queries (world database)](https://github.com/elifsancak/databases-projects-homework-/blob/master/week-2-homework/world(solution).sql)
 
-### Exercise-3
-- [ ]  [Create a database for the todos homework]
-### Exercise-4
-- [ ]  [Use Primary Keys]
-### Exercise-5
-- [ ]  [Update the todos app to use a database]
+- [ ]  [Modify your ERD (travel)]
+- [ ]  [Create a new ERD based on the imdb database)]
+- [ ]  [Create the queries (using JOINS)]
 
