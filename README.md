@@ -25,7 +25,7 @@
 - [x]  [Queries (imdb database)](https://github.com/elifsancak/databases-projects-homework-/blob/master/week-2-homework/imdb(solution).sql)
 - [x]  [Queries (world database)](https://github.com/elifsancak/databases-projects-homework-/blob/master/week-2-homework/world(solution).sql)
 
-- [ ]  [Modify your ERD (travel)]
+- [x]  [Modify your ERD (travel)](https://github.com/elifsancak/databases-projects-homework-/blob/master/week-2-homework/TravelDiagramson.pdf)
 - [ ]  [Create a new ERD based on the imdb database)]
 - [ ]  [Create the queries (using JOINS)]
 
