@@ -171,14 +171,14 @@ CREATE TABLE Customer(
 default charset utf8;
 
 INSERT INTO  Customer (CustomerId, CusFirstName, CusLastName, CusAge, CusGender, PackageId) 
-VALUES (31,'ali','fert',24,'m','9');
+VALUES (31,'ali','fert',24,'m',9);
 INSERT INTO  Customer (CustomerId, CusFirstName, CusLastName, CusAge, CusGender, PackageId) 
-VALUES (32,'veli','dert',35,'f','5');
+VALUES (32,'veli','dert',35,'f',5);
 INSERT INTO  Customer (CustomerId, CusFirstName, CusLastName, CusAge, CusGender, PackageId) 
-VALUES (33,'elif','terk',62,'f','7');
+VALUES (33,'elif','terk',62,'f',7);
 INSERT INTO  Customer (CustomerId, CusFirstName, CusLastName, CusAge, CusGender, PackageId) 
-VALUES (34,'ahmet','denk',43,'m','1');
+VALUES (34,'ahmet','denk',43,'m',1);
 INSERT INTO  Customer (CustomerId, CusFirstName, CusLastName, CusAge, CusGender, PackageId) 
-VALUES (35,'ayse','tank',27,'f','9');
+VALUES (35,'ayse','tank',27,'f',9);
 
 -- Elif Sancak
